@@ -8,6 +8,8 @@ This document outlines the development plan from a high level and will be update
 
 # Phase 1 - Radish Conversations PRIVATE BETA - March 2018
 
+Ramp up Conversational domain
+
 # Phase 2 - Radish Conversations PUBLIC BETA - ? 2018
 
 # Phase 3 - Radish Conversations PUBLIC v1.0 - ? 2018
