@@ -5,7 +5,7 @@ Radish Roadmap
 This document outlines the development plan from a high level and will be updated as progress is made. 
 
 
-# Phase 1: Radish Conversations PRIVATE BETA
+# Phase 1: Radish Conversations - PRIVATE BETA
 ## March 2018 - COMPLETE
 
 The primary aim of this initial phase is to continue development of the established Radish Conversation prototype application (WordPress/BuddyPress) to a standard that is fit for private beta testing with a limited audience.  In completing this phase, the intent is then to begin to attract key individuals--primarily technology developers and innovative visionaries--in order to accelerate the collective development of the Radish platform.
@@ -21,8 +21,8 @@ Goals in realizing this phase are:
     4. Implement a member beta access application process from the public home page.
 
 
-# Phase 2: Radish Conversations PUBLIC BETA
-## July 1, 2018 - IN PROCESS
+# Phase 2: Radish Portal - PUBLIC BETA
+## July 15, 2018 - IN PROCESS
 
 The primary aim of this phase is to prepare the application for promotion to the general public as beta.  The intent here is to continue to attract and on-board key individuals--primarily technology developers and general visionaries--in order to accelerate the collective development of the Radish platform.
 
@@ -40,22 +40,26 @@ Goals in realizing this phase are:
         - New Radish portal home page layout.  
    
     3. Pre-populate and organize the Radish portal with quality content, including:
-        - Pre-recorded video conversations, with many organized into fundamental series.
+        - Pre-recorded video conversations, with many organized into fundamental series (Introduction to Radish, Social Club at the End of the World, Radical Collective Intelligence, Abrupt Climate Change, etc).
         - FAQ and How-To tutorials on what Radish is, and how to use various features of the conversation space.
-        - A few fundamental blog posts (on topics such as the purpose and vision of Radish, Radical Collective Intelligence (RCI), RCI book shelf, RCI glossary, the Radish roadmap, and the Radish stack).  
+        - A few fundamental blog posts under key categories (on topics such as the purpose and vision of Radish, Radical Collective Intelligence (RCI), Inside Radish, Solutions, RCI book shelf, RCI glossary, the Radish roadmap, and the Radish stack).  
 
-    4. Produce a Radish promotional and "explainer" video, and insert on Radish home page. 
-
-    5. Testing and Quality Assurance (QA) of Radish portal. 
+    4. Testing and Quality Assurance (QA) of Radish portal.
 
 
-# Phase 3: Radish Conversations PUBLIC TESTING - ? 2018 - TBD
+# Phase 3: Radish Portal v1.0 - PUBLIC PROMOTION  
+## 2018 - TBD
 
+The primary aim of this phase is to promote a largely 'complete' initial Radish portal to the general public, increase membership, and stimulate member conversations and general participation.
 
+    1. Produce a Radish promotional and "explainer" video, and insert onto Radish home page. 
 
-# Phase 4: Radish Conversations PUBLIC v1.0 - ? 2018 - TBD
+    2. Organically stimulate and moderate increase in Radish conversations.
 
+    3. Enhance and stimulate Radish social media access points:
+        - FaceBook, Twitter, YouTube, Instagram, Google Plus, GitHub.
 
+    4. Utilize and leverage Radish mailing list with relevant email campaigns.  
 
-***Everything contained in this document is in draft form and subject to change at any time and provided for information purposes only.***
+    5. Implement advanced search methods of Radish conversations.
 
