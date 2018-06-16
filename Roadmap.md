@@ -1,12 +1,12 @@
 
-Radish Roadmap
------------------------
+#Radish Roadmap
+---------------
 
 This document outlines the development plan from a high level and will be updated as progress is made. 
 
 
-# Phase 1: Radish Conversations - PRIVATE BETA
-## March 2018 - COMPLETE
+## Phase 1: Radish Conversations - PRIVATE BETA
+### March 2018 - COMPLETE
 
 The primary aim of this initial phase is to continue development of the established Radish Conversation prototype application (WordPress/BuddyPress) to a standard that is fit for private beta testing with a limited audience.  In completing this phase, the intent is then to begin to attract key individuals--primarily technology developers and innovative visionaries--in order to accelerate the collective development of the Radish platform.
 
@@ -21,8 +21,8 @@ Goals in realizing this phase are:
     4. Implement a member beta access application process from the public home page.
 
 
-# Phase 2: Radish Portal - PUBLIC BETA
-## July 15, 2018 - IN PROCESS
+## Phase 2: Radish Portal - PUBLIC BETA
+### July 15, 2018 - IN PROCESS
 
 The primary aim of this phase is to prepare the application for promotion to the general public as beta.  The intent here is to continue to attract and on-board key individuals--primarily technology developers and general visionaries--in order to accelerate the collective development of the Radish platform.
 
@@ -47,8 +47,8 @@ Goals in realizing this phase are:
     4. Testing and Quality Assurance (QA) of Radish portal.
 
 
-# Phase 3: Radish Portal v1.0 - PUBLIC PROMOTION  
-## 2018 - TBD
+## Phase 3: Radish Portal v1.0 - PUBLIC PROMOTION  
+### 2018 - TBD
 
 The primary aim of this phase is to promote a largely 'complete' initial Radish portal to the general public, increase membership, and stimulate member conversations and general participation.
 
@@ -62,4 +62,15 @@ The primary aim of this phase is to promote a largely 'complete' initial Radish 
     4. Utilize and leverage Radish mailing list with relevant email campaigns.  
 
     5. Implement advanced search methods of Radish conversations.
+
+
+## Phase 4: Radish Portal v2.0 - ENHANCE COLLECTIVE INTELLIGENCE  
+### 2018 - TBD
+
+The primary aim of this phase is to develop the Radish portal with new features and branch extensions that enhance Collective Intelligence (CI). More information to be provided ...   
+
+
+
+
+
 
