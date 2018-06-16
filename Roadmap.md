@@ -67,7 +67,7 @@ The primary aim of this phase is to promote a largely 'complete' initial Radish 
 ## Phase 4: Radish Portal v2.0 - ENHANCE COLLECTIVE INTELLIGENCE  
 ### 2018 - TBD
 
-The primary aim of this phase is to develop the Radish portal with new features and branch extensions that enhance Collective Intelligence (HI + AI = CI). More information to be provided ...   
+The primary aim of this phase is to develop the Radish portal with new features and branch extensions that enhance Collective Intelligence (HI + AI = CI).  More information to be provided ...   
 
 
 
