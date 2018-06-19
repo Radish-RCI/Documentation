@@ -22,7 +22,7 @@ Goals in realizing this phase are:
 
 
 ## Phase 2: Radish Portal - PUBLIC BETA
-### July 15, 2018 - IN PROCESS
+### September 15, 2018 - IN PROCESS
 
 The primary aim of this phase is to prepare the application for promotion to the general public as beta.  The intent here is to continue to attract and on-board key individuals--primarily technology developers and general visionaries--in order to accelerate the collective development of the Radish platform.
 
@@ -44,7 +44,9 @@ Goals in realizing this phase are:
         - FAQ and How-To tutorials on what Radish is, and how to use various features of the conversation space.
         - A few fundamental blog posts under key categories (on topics such as the purpose and vision of Radish, Radical Collective Intelligence (RCI), Inside Radish, Solutions, RCI book shelf, RCI glossary, the Radish roadmap, and the Radish stack).  
 
-    4. Testing and Quality Assurance (QA) of Radish portal.
+    4. Design and specify Solution Builder application (TBD).
+
+    5. Testing and Quality Assurance (QA) of Radish portal.
 
 
 ## Phase 3: Radish Portal v1.0 - PUBLIC PROMOTION  
