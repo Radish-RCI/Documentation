@@ -22,7 +22,7 @@ Goals in realizing this phase are:
 
 
 ## Phase 2: Radish Portal - PUBLIC BETA
-### September 15, 2018 - IN PROCESS
+### July 15, 2018 - IN PROCESS
 
 The primary aim of this phase is to prepare the application for promotion to the general public as beta.  The intent here is to continue to attract and on-board key individuals--primarily technology developers and general visionaries--in order to accelerate the collective development of the Radish platform.
 
