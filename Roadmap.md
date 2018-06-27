@@ -8,13 +8,13 @@ Overall, the Radish project is aiming to catalyze radical collectve intelligence
 
 The development of the Radish platform follows a high level methodology and pathway:
 
-1 - IDEATION (brainstorming): create a Conversational Space for human intelligence to be expressed and collectively brainstorm around global problems and solutions.  
+1 - **IDEATION** (brainstorming): create a Conversational Space for human intelligence to be expressed and collectively brainstorm around global problems and solutions.  
 
-2 - BUILDING (brainswarming): create a Solutions Builder for organizing, mapping, and clarifying whole system solutions from information gathered from the Conversation Space.
+2 - **BUILDING** (brainswarming): create a Solutions Builder for organizing, mapping, and clarifying whole system solutions from information gathered from the Conversation Space.
 
-3 - MODELING (optimization): create a Global Holistic Modeling environment for testing and optimzing systemic solutions.  
+3 - **MODELING** (optimization): create a Global Holistic Modeling environment for testing and optimzing systemic solutions.  
 
-4 - IMPLEMENTATION (delivery): create a system of delivering optimized systemic solutions into the real world.
+4 - **IMPLEMENTATION** (delivery): create a system of delivering optimized systemic solutions into the real world.
 
 ___
 
