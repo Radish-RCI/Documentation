@@ -4,11 +4,25 @@
 
 This document outlines the development plan from a high level and will be updated as progress is made. 
 
+Overall, the Radish project is aiming to catalyze radical collectve intelligence (RCI) to solve real-world problems.  Our formula is that Human Intelligence (HI) combined with Artificial Intelligence (AI) results in greater Collective Intelligence (CI). HI + AI = CI
+
+The development of the Radish platform follows a high level methodology and pathway:
+
+1 - IDEATION (brainstorming): create a Conversational Space for human intelligence to be expressed and collectively brainstorm around global problems and solutions.  
+
+2 - BUILDING (brainswarming): create a Solutions Builder for organizing, mapping, and clarifying whole system solutions from information gathered from the Conversation Space.
+
+3 - MODELING (optimization): create a Global Holistic Modeling environment for testing and optimzing systemic solutions.  
+
+4 - IMPLEMENTATION (delivery): create a system of delivering optimized systemic solutions into the real world.
+
+___
+
 
 ## Phase 1: Radish Conversations - PRIVATE BETA
 ### March 2018 - COMPLETE
 
-The primary aim of this initial phase is to continue development of the established Radish Conversation prototype application (WordPress/BuddyPress) to a standard that is fit for private beta testing with a limited audience.  In completing this phase, the intent is then to begin to attract key individuals--primarily technology developers and innovative visionaries--in order to accelerate the collective development of the Radish platform.
+The primary aim of this initial phase is to continue development of the established Conversation Space prototype application (WordPress/BuddyPress) to a standard that is fit for private beta testing with a limited audience.  In completing this phase, the intent is then to begin to attract key individuals--primarily technology developers and innovative visionaries--in order to accelerate the collective development of the Radish platform.
 
 Goals in realizing this phase are:
 
@@ -24,7 +38,7 @@ Goals in realizing this phase are:
 ## Phase 2: Radish Portal - PUBLIC BETA
 ### September 15, 2018 - IN PROCESS
 
-The primary aim of this phase is to prepare the application for promotion to the general public as beta.  The intent here is to continue to attract and on-board key individuals--primarily technology developers and general visionaries--in order to accelerate the collective development of the Radish platform.
+The primary aim of this phase is to prepare the Conversation Space application for promotion to the general public as beta.  The intent here is to continue to attract and on-board key individuals--primarily technology developers and general visionaries--in order to accelerate the collective development of the Radish platform.
 
 Goals in realizing this phase are:
 
@@ -71,7 +85,7 @@ The primary aim of this phase is to promote a largely 'complete' initial Radish 
 ## Phase 4: Radish Portal v2.0 - ENHANCE COLLECTIVE INTELLIGENCE  
 ### 2018 - TBD
 
-The primary aim of this phase is to develop the Radish portal with new features and branch extensions that enhance Collective Intelligence (HI + AI = CI).  More information to be provided ...   
+The primary aim of this phase is to develop the Solutions Builder application (more to come) ... 
 
 
 
