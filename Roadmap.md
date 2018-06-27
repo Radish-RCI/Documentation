@@ -44,9 +44,11 @@ Goals in realizing this phase are:
         - FAQ and How-To tutorials on what Radish is, and how to use various features of the conversation space.
         - A few fundamental blog posts under key categories (on topics such as the purpose and vision of Radish, Radical Collective Intelligence (RCI), Inside Radish, Solutions, RCI book shelf, RCI glossary, the Radish roadmap, and the Radish stack).  
 
-    4. Design and specify Solution Builder application (TBD).
+    4. Implement conversation video transcription.
 
-    5. Testing and Quality Assurance (QA) of Radish portal.
+    5. Design and specify Solution Builder application (TBD).
+
+    6. Testing and Quality Assurance (QA) of Radish portal.
 
 
 ## Phase 3: Radish Portal v1.0 - PUBLIC PROMOTION  
