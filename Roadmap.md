@@ -2,7 +2,7 @@
 # Radish Roadmap
 ----------------
 
-This document outlines the development plan from a high level and will be updated as progress is made. 
+This document outlines the development plan from a high level and may be updated as progress and pivots are made.
 
 Overall, the Radish project is aiming to catalyze radical collectve intelligence (RCI) to solve real-world problems.  Our formula is that Human Intelligence (HI) combined with Artificial Intelligence (AI) results in greater Collective Intelligence (CI). HI + AI = CI
 
