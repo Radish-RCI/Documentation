@@ -28,7 +28,7 @@ Goals in realizing this phase are:
 
     1. Fine tune graphics, UI, and layout for general purposes.
 
-    2. Improve funtionality and look of commenting section (Reddit style).
+    2. Improve functionality and look of commenting section (Reddit style).
 
     3. Insert general content (About page, etc).
 
