@@ -10,7 +10,7 @@ The development of the Radish platform follows a high level methodology and path
 
 1 - **IDEATION** (brainstorming): create a Conversational Space for human intelligence to be expressed and collectively brainstorm around global problems and solutions.  
 
-2 - **BUILDING** (brainswarming): create a Solutions Builder for organizing, mapping, and clarifying whole system solutions from information gathered from the Conversation Space.
+2 - **DESIGN** (brainswarming): create a Solutions Builder for organizing, mapping, and clarifying whole system solutions from information gathered from the Conversation Space.
 
 3 - **MODELING** (optimization): create a Global Holistic Modeling environment for testing and optimzing systemic solutions.  
 
